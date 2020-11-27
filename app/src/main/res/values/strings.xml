@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">A7s212021prac6</string>
+    <string name="titulo">Muti-Screen</string>
+    <string name="tipo">Celular</string>
+    <string name="img">hacker</string>
+    <string name="vhorizontal">Horizontal</string>
+    <string name="vvertical">Vertical</string>
+    <string name="img1">Anonymus</string>
+    <string name="tipo1">Tablet</string>
+</resources>
